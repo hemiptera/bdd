@@ -1,8 +1,8 @@
-#BDD - Binary Data Definition and Processing
+# BDD - Binary Data Definition and Processing
 
 BDD is a domain specific language used to describe binary data and allow efficient extraction and manipulation.
 
-## Inital Tasks
+## Initial Tasks
 
 - [ ] Create arithmetic parser
 - [ ] Binary and byte arrays
